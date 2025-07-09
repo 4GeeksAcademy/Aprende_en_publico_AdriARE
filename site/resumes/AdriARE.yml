@@ -4,8 +4,8 @@ skin: blue
 basic_info:
   first_name: Adrián
   last_name: Rodríguez Estévez
-  motto: Be smart
-  focus: Enjoy simple things of life
+  motto: Be happy
+  focus: I find joy in life’s simple pleasures.
   summary: >
     Pragmatic and adaptable Naval Engineer with experience as Site Manager of wind farms in Spain and Brazil. 
 
@@ -15,13 +15,13 @@ basic_info:
 
 
     Second paragraph if required.
-  avatar: https://randomuser.me/api/portraits/women/24.jpg
-  email: a@a.com
-  phone: 234 2342 342
-  website: asd.com
-  linkedin: alandoe
+  avatar: https://media.licdn.com/dms/image/v2/D4D03AQFg5fQUyVX08g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1680695472547?e=1757548800&v=beta&t=IAj8-4KDmlQ2o0Oo07mY0Nfb8enhTpsOQSE1AaplbHQ
+  email: adrian.r.estevez.com
+  phone: 234
+  website: 
+  linkedin: https://www.linkedin.com/in/arestevez/
   github: AdriARE
-  twitter: webjeda
+  twitter:
   stack-overflow: null
   languages:
     - idiom: Spanish
@@ -35,10 +35,10 @@ basic_info:
     - item: Beach
     - item: Cinema
 education:
-  - degree: MSc in Computer Science
-    university: University of London
+  - degree: Naval Engineer
+    university: University of Coruña
     university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
-    time: 2011 - 2012
+    time: 2010 - 2016
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
